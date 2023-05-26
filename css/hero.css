@@ -16,6 +16,7 @@
 }
 .svg-wrapper {
   position: relative;
+  overflow: hidden;
 }
 .svg-wrapper--inner {
   display: none;
